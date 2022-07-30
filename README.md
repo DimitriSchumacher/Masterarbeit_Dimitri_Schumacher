@@ -1,4 +1,3 @@
-# Masterarbeit Dimitri Schumacher
+# Colocalisation Scripts
 
-This repository exhibits all Python, ImageJ and Arduino Scripts written for the Master's Thesis of Dimitri Schumacher. 
-There are several branches: Arduino Code, Particle Analysis, Watershed Segmentation, Percentage of cells with Aggregate and Colocalisation. 
+This branch contains the ImageJ Coloc2 scripts and the Python analysis scripts that process the resulting data from the colocalisation analysis. 
